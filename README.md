@@ -4,7 +4,7 @@ THE DEEP EXPLANATIONS OF SCRIPTS IS AHEAD.
 
 # BITCOIN-balance.py
 
-This script helps to fetch the balance of bitcoin addresses 
+This script helps to fetch the balance of bitcoin addresses:
 (All types of addresses all needed to edit some structures requirements 
 this script Roots are from somewhere else i added 
 
@@ -18,13 +18,25 @@ this script Roots are from somewhere else i added
 
 # ETHEREUM-balance.py
 
-This script helps to fetch the balance of ETHEREUM addresses 
+This script helps to fetch the balance of ETHEREUM addresses:
 
 > • GIVEN API KEY IS FOR FREE BUT MAKE SURE TO USE YOUR OWN
 > 
 > • Restart from the leftover addresses
 > 
 > • BETTER speed
+
+# SOLBAL.PY
+
+This script helps to fetch the balance of SOLANA addresses:
+
+> ● Works  efficiently
+>
+> ● Dont have error handing so if networkgoes ad it will not gonna stop which is mes...
+>
+> ● saves outputs and Restart from the leftover addresses
+>
+> ● Speed is great
 
 # DEXHEX.PY
 
@@ -45,4 +57,62 @@ USE DEXHEX.Py
 # MERGE.PY
 
 THIS SCRIPT IF FOR MERGING TYPES OF FILES NOTHING ELSE.....
-> ● REMOVES SAME KIND OF THINGS FROM FILE FASTER ENOUGH 
+> ● REMOVES SAME KIND OF THINGS FROM FILE FASTER ENOUGH
+
+# REBTC.PY
+
+THIS SCRIPT IS TO SPLIT BTC ADDRESSES FROM FILE 
+EXECUTE SAME ADDRESSES  SAVES THE REST OF ADDRESSES INTO DESIRED FILE 
+
+# REETH.PY
+
+THIS SCRIPT IS TO SPLIT ETH ADDRESSES FROM FILE 
+EXECUTE SAME ADDRESSES  SAVES THE REST OF ADDRESSES INTO DESIRED FILE 
+
+# REMOVESAME.PY
+
+IF YOU HAVE A FILE HAVING A LOT OF DATA AND OTHER ONES IS HAVING HALF OF THE SAME. DATA IT GONNA COLLIDE BOTH FILES AND THEN EXECUTES THE SAME ONE SAVES THE DIFFERENT ONES
+
+# RESOL.PY
+
+THIS SCRIPT IS TO SPLIT SOL ADDRESSES FROM FILE 
+EXECUTE SAME ADDRESSES  SAVES THE REST OF ADDRESSES INTO DESIRED FILE 
+
+# SEARCH.PY 
+
+THIS SCRIPT IS TO SEARCH THE SIMILAR STINGS FROM FILE [ MATCHING THE BTC ADDRESSES IS IT'S PRIORITY ] IT WILL EASILY HELP YOU TO FIND OUT THE FILE IN WHICH THE PARTICULAR ADDRESSES IS SAVED SAVES A LOT TIME....
+
+# SPLITFILE.PY
+
+THIS SCRIPT IS TO SPLIT FILES CAN SPLIT UPTO 600 GB OF DATA
+
+# TIME.PY
+
+THIS SCRIPT IS THE MAIN THING WHICH I WANTE TO CREAT FROM THE BEGINNING OF MY CARRIER OVER HERE....
+
+> ◇ GIVES REALITY CHECK ON TIME OF SOLVING THINGS
+> 
+> ◇ PROPER LOGGICS AND MATHS IS USED
+>
+> ◇ A GUY HELPED TO SOLVE A BUG
+>
+> ◇ THIS SCRIPT HELP TO END CONTROVERSIES BETWEEN PEOPLE ABOUT HOW MUCH TIME WILL IT TAKES 
+
+
+# InstaGram - @shubcoinz.in
+
+# Telegram -
+
+for chats - " https://t.me/privatekeydirectorygroup "
+
+for DM's - @shub_saini08
+
+for updates - " https://t.me/privatekeydirectory "
+
+for better scripts - " https://t.me/cloud_hunter_sa "
+
+for trading - " https://t.me/ninja_hash "
+
+#I DON'T NEED DONATIONS IF MY SCRIPTS PAY YOU AT LEAST SEND ME SCREENSHOTS THIS MIGHT GONNA MOTIVATES ME
+
+-Still Learning
