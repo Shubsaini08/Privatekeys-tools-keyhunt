@@ -59,6 +59,9 @@ USE DEXHEX.Py
 THIS SCRIPT IF FOR MERGING TYPES OF FILES NOTHING ELSE.....
 > ● REMOVES SAME KIND OF THINGS FROM FILE FASTER ENOUGH
 
+# REMERGE-BTC.PY
+> A tool that aows you to merge HEAVY FILES OF BTC ADDRESS and split the addresses from rest of shit also remove same adresses  a complete mixture of MERGE.PY AND REBTC.PY
+
 # REBTC.PY
 
 THIS SCRIPT IS TO SPLIT BTC ADDRESSES FROM FILE 
