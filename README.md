@@ -2,7 +2,7 @@
 ALL YOU GUYS KNOW ME THANKS FOR COMING OVER HERE..!!
 THE DEEP EXPLANATIONS OF SCRIPTS IS AHEAD.
 
-# BITCOIN-balance.py
+# BITCOIN-balance.py //\\ BITCOIN-balance2.py
 
 This script helps to fetch the balance of bitcoin addresses:
 (All types of addresses all needed to edit some structures requirements 
@@ -15,6 +15,8 @@ this script Roots are from somewhere else i added
 > • Restart from the leftover addresses
 > 
 > • some speed
+
+[ BITCOIN-balance2.py ~ 25 ADDRESSES PER SECONDS ]
 
 # ETHEREUM-balance.py
 
