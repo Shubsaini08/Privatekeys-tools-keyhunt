@@ -112,21 +112,30 @@ THIS SCRIPT IS THE MAIN THING WHICH I WANTE TO CREAT FROM THE BEGINNING OF MY CA
 >
 > ◇ THIS SCRIPT HELP TO END CONTROVERSIES BETWEEN PEOPLE ABOUT HOW MUCH TIME WILL IT TAKES 
 
+# doors are always open for DONATIONS 
+ thank you !.....
+ 
+# HOPE IT WILL HELP
+[FOR ANY QUESTIONS TEXT US AT]
 
-# InstaGram - @shubcoinz.in
+> CLOUDHUNTERS :: https://t.me/code_Crusaders0
+> 
+> KEYFOUND ::  https://t.me/privatekeydirectorygroup
+> 
+> ALSO FOR TRADING WITH BOTS :: https://t.me/+ggaun3gLB900MGY0
+> 
+> GITHUB LINK FOR MORRE :: https://github.com/Shubsaini08
+> 
+FOR DONATIONS : 
 
-# Telegram -
+# CONTACT :: 
+> US THROUGH DRIECT MESSAGES OR BY MAILING US ::   keyfoundhunt4ever@gmail.com
+> 
+> OR DIRECT MESSAGE ON TELE : @Shub_saini08
+>
+> THANK YOU FOR READING THIS DOCUMENTATION
 
-for chats - " https://t.me/privatekeydirectorygroup "
+HAVE A WONDERFULL DAY STAY BLESSED HOPE YOU WILL HIT SOME(MONEY) SOON......
+BYE !!
 
-for DM's - @shub_saini08
-
-for updates - " https://t.me/privatekeydirectory "
-
-for better scripts - " https://t.me/cloud_hunter_sa "
-
-for trading - " https://t.me/ninja_hash "
-
-#I DON'T NEED DONATIONS IF MY SCRIPTS PAY YOU AT LEAST SEND ME SCREENSHOTS THIS MIGHT GONNA MOTIVATES ME
-
--Still Learning
+# MANY MORE TO DUMP BUT I HAVE NO TIME JOIN CHANNELS TO GET IN !!!
